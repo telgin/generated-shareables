@@ -1,0 +1,4 @@
+- type: "insert" # "insert", "modify", or "delete"
+  groupId: "com.example"
+  artifactId: "example-artifact"
+  version: "1.0.0" # Only needed for "insert" and "modify" actions
